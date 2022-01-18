@@ -1,0 +1,62 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+h1,h2{
+  font-family: 'Montserrat';
+  font-weight: bold;
+  line-height: 1.5;
+  font-size: 3rem;
+  color: #FFF;
+
+}
+i{
+  color: #2B7A78;
+}
+footer{
+  text-align: center;
+  padding: 7px 15px;
+}
+#title{
+  text-align: center;
+  background-color: #379683;
+  padding: 7% 15%;
+}
+.nav-title {
+  color: #FFFF;
+}
+.title-span{
+  color: #FFFF;
+}
+.design{
+color: #F76C6C;
+}
+
+#features{
+  font-family: 'Montserrat';
+  text-align: center;
+  padding: 7% 15%;
+}
+.heading{
+  padding: 7%;
+}
+.image-first{
+  margin:0 0 10px;
+}
+.row-one{
+margin-top: 30px;
+}
+#customers-reviews
+{
+  font-weight: bold;
+  text-align: center;
+  background-color: #2B7A78;
+}
+.review-img{
+  width: 10%;
+}
+.carousel-item{
+padding: 5px 50px;
+}
+.footer-image{
+  padding: 15px 10px;
+}
